@@ -1,1 +1,2 @@
 this is second file in a branch
+Added more lines in the second file
